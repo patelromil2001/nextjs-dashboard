@@ -7,4 +7,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 The Link for my work done and deployed on vercel is below.
-https://nextjs-dashboard-8u5le3nuw-patelromil2001s-projects.vercel.app/
+https://nextjs-dashboard-git-main-patelromil2001s-projects.vercel.app/dashboard
